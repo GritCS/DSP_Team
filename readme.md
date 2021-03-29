@@ -1,4 +1,4 @@
-![2](2.png)
+![2](img/2.png)
 
 
 
@@ -26,7 +26,7 @@ Our team has developers who have experience in **developing Android**, researche
 >
 > And now I'm interested in computer vision, and so some work in medical imageing. I studied the hip joint, skull, scoliosis data set, and completed the task of key point detection and disease detection on it.
 
-![4](4.png)
+![4](img/4.png)
 
 
 
@@ -46,4 +46,4 @@ Our team has developers who have experience in **developing Android**, researche
 >
 > Last but not least, I do have experience in medical image process, which may help our team in the project.
 
-![3](3.png)
+![3](img/3.png)
