@@ -32,7 +32,7 @@ Our team has developers who have experience in **developing Android**, researche
 
 #### Other
 
-- **Zachary CHEN  **
+- **Zachary CHEN**
 
   Email: chen982330532@gmail.com
 
@@ -68,3 +68,39 @@ Our team has developers who have experience in **developing Android**, researche
 > The experience of programming competition makes me thinking more logical and structured.
 
 ![6](img/6.png)
+
+- **Diogo Mota**
+
+  Email: al65398@utad.eu
+
+> I am used to do group projects, so being part of a team is not anything new.
+> I am totally comfortable using English to communicate and link up with new people. Last
+> semester I did Erasmus in Slovakia where I made some friends from all Europe.
+
+![9](img/9.png)
+
+
+
+- **Afonso Mota**
+
+  Email:  andrecibrao@gmail.com
+
+> List other skills or experiences potentially useful to a team such as teamwork experience,
+>
+> planning/managing, other programming projects, or work experience.
+
+![7](img/7.png)
+
+- **Cyan Watts (Xian Fu)**
+
+  Emial: 295046487@qq.com
+
+> A little knowledge of Reinforcement Learning.
+>
+> Recently I’m doing some research on Reinforcement Learning and Bioinformatics.
+
+
+
+![8](img/8.png)
+
+
