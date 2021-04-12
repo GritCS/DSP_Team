@@ -34,6 +34,7 @@ Our team has developers who have experience in **developing Android**, researche
 #### Other
 
 - **Zachary CHEN**
+<br/><img src="img/avatar/Zachary CHEN.jpg" height="300" alt="avatar1"/><br/>
 
   Email: chen982330532@gmail.com
 
