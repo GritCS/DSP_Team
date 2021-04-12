@@ -15,7 +15,7 @@ Our team has developers who have experience in **developing Android**, researche
 #### PM
 
 - **Doris Wang**
-![image1](/img/avatar/Doris%20Wang.jpg)
+![image1](/img/avatar/Doris%20Wang.jpg =400x300)
 ​		Email: wangyu13343911318@gmail.com 
 
 > Intro: 
