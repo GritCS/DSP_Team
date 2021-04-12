@@ -52,7 +52,7 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 - **Carol Liao**
-
+<br/><img src="/img/avatar/Carol Liao.png" height="300" alt="avatar1"/><br/>
   Email: dreamy.lzx@gmail.com
 
 
@@ -93,7 +93,7 @@ Our team has developers who have experience in **developing Android**, researche
 ![7](img/7.png)
 
 - **Cyan Watts (Xian Fu)**
-
+<br/><img src="/img/avatar/Cyan Fu.jpg" height="300" alt="avatar1"/><br/>
   Emial: 295046487@qq.com
 
 > A little knowledge of Reinforcement Learning.
