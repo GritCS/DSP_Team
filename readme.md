@@ -15,7 +15,7 @@ Our team has developers who have experience in **developing Android**, researche
 #### PM
 
 - **Doris Wang**
-![11](img/avatar/Doris Wang.jpg)
+![image](https://github.com/CyanWatts/DSP_Team/blob/main/img/avatar/Carol%20Liao.png)
 ​		Email: wangyu13343911318@gmail.com 
 
 > Intro: 
