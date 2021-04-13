@@ -72,7 +72,7 @@ Our team has developers who have experience in **developing Android**, researche
 ![6](img/6.png)
 
 - **Diogo Mota**
-
+<br/><img src="img/avatar/Diogo Mota.jpg" height="300" alt="avatar1"/><br/>
   Email: afonsomagmota@hotmail.com
 > I am used to do group projects, so being part of a team is not anything new.
 > I am totally comfortable using English to communicate and link up with new people. Last
