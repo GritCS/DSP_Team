@@ -87,9 +87,7 @@ Our team has developers who have experience in **developing Android**, researche
 
   Email:  andrecibrao@gmail.com
 
-> List other skills or experiences potentially useful to a team such as teamwork experience,
->
-> planning/managing, other programming projects, or work experience.
+
 
 ![7](img/7.png)
 
