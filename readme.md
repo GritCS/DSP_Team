@@ -83,6 +83,7 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 - **Afonso Mota**
+<br/><img src="img/avatar/Afonso Mota.jpg" height="300" alt="avatar1"/><br/>
 
   Email:  andrecibrao@gmail.com
 
