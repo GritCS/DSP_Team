@@ -15,6 +15,7 @@ Our team has developers who have experience in **developing Android**, researche
 #### PM
 
 - **Doris Wang**
+<br/><img src="/img/avatar/Doris%20Wang.jpg" height="300" alt="avatar1"/><br/>
 
 ​		Email: wangyu13343911318@gmail.com 
 
@@ -30,9 +31,11 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 
+
 #### Other
 
 - **Zachary CHEN**
+<br/><img src="img/avatar/Zachary CHEN.jpg" height="300" alt="avatar1"/><br/>
 
   Email: chen982330532@gmail.com
 
@@ -50,7 +53,7 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 - **Carol Liao**
-
+<br/><img src="/img/avatar/Carol Liao.png" height="300" alt="avatar1"/><br/>
   Email: dreamy.lzx@gmail.com
 
 
@@ -70,7 +73,7 @@ Our team has developers who have experience in **developing Android**, researche
 ![6](img/6.png)
 
 - **Diogo Mota**
-
+<br/><img src="img/avatar/Diogo Mota.jpg" height="300" alt="avatar1"/><br/>
   Email: afonsomagmota@hotmail.com
 > I am used to do group projects, so being part of a team is not anything new.
 > I am totally comfortable using English to communicate and link up with new people. Last
@@ -81,17 +84,16 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 - **Afonso Mota**
+<br/><img src="img/avatar/Afonso Mota.jpg" height="300" alt="avatar1"/><br/>
 
   Email:  andrecibrao@gmail.com
 
-> List other skills or experiences potentially useful to a team such as teamwork experience,
->
-> planning/managing, other programming projects, or work experience.
+
 
 ![7](img/7.png)
 
 - **Cyan Watts (Xian Fu)**
-
+<br/><img src="/img/avatar/Cyan Fu.jpg" height="300" alt="avatar1"/><br/>
   Emial: 295046487@qq.com
 
 > A little knowledge of Reinforcement Learning.
