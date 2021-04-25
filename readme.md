@@ -1,4 +1,4 @@
-![2](img/10.png)
+![2](img/gantt.png)
 
 
 
