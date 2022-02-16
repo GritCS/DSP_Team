@@ -1,4 +1,4 @@
-![2](img/gantt.png)
+
 
 
 
@@ -27,7 +27,7 @@ Our team has developers who have experience in **developing Android**, researche
 >
 > And now I'm interested in computer vision, and so some work in medical imageing. I studied the hip joint, skull, scoliosis data set, and completed the task of key point detection and disease detection on it.
 
-![4](img/4.png)
+
 
 
 
@@ -35,7 +35,6 @@ Our team has developers who have experience in **developing Android**, researche
 #### Other
 
 - **Zachary CHEN**
-<br/><img src="img/avatar/Zachary CHEN.jpg" height="300" alt="avatar1"/><br/>
 
   Email: chen982330532@gmail.com
 
@@ -49,7 +48,7 @@ Our team has developers who have experience in **developing Android**, researche
 >
 > Last but not least, I do have experience in medical image process, which may help our team in the project.
 
-![3](img/3.png)
+
 
 
 - **Carol Liao**
@@ -70,7 +69,7 @@ Our team has developers who have experience in **developing Android**, researche
 >
 > The experience of programming competition makes me thinking more logical and structured.
 
-![6](img/6.png)
+
 
 - **Diogo Mota**
 <br/><img src="img/avatar/Diogo Mota.jpg" height="300" alt="avatar1"/><br/>
@@ -90,7 +89,7 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 
-![7](img/7.png)
+
 
 - **Cyan Watts (Xian Fu)**
 <br/><img src="/img/avatar/Cyan Fu.jpg" height="300" alt="avatar1"/><br/>
@@ -102,6 +101,6 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 
-![8](img/8.png)
+
 
 
